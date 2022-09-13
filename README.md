@@ -7,7 +7,4 @@ Lab 2 of DevOps course
 Youssef Michel
 Thevenin Valentin
 
-## read me file edit
-
-this is another edit of the readme file
-from the dev-michel
+## edit of README
