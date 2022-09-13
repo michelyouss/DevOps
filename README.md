@@ -9,5 +9,5 @@ Thevenin Valentin
 
 ## read me file edit
 
-this is an edit of the readme file
+this is another edit of the readme file
 from the dev-michel
