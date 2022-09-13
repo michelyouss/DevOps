@@ -7,4 +7,5 @@ Lab 2 of DevOps course
 Youssef Michel
 Thevenin Valentin
 
+<<<<<<< HEAD
 ## edit of README
